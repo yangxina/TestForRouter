@@ -304,12 +304,12 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-TestForRouter_Example/Pods-TestForRouter_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/TZRouter/TZRouter.framework",
+				"${BUILT_PRODUCTS_DIR}/NicooSwiftRouter/NicooSwiftRouter.framework",
 				"${BUILT_PRODUCTS_DIR}/TestForRouter/TestForRouter.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TZRouter.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/NicooSwiftRouter.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TestForRouter.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import TZRouter
+import NicooSwiftRouter
 // 这里是要通过路由从其他组件拿数据的调用
  open class RouterTestClass: NSObject {
     

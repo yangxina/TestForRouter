@@ -143,11 +143,11 @@ strip_invalid_archs() {
 
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
-  install_framework "${BUILT_PRODUCTS_DIR}/TZRouter/TZRouter.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/NicooSwiftRouter/NicooSwiftRouter.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/TestForRouter/TestForRouter.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
-  install_framework "${BUILT_PRODUCTS_DIR}/TZRouter/TZRouter.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/NicooSwiftRouter/NicooSwiftRouter.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/TestForRouter/TestForRouter.framework"
 fi
 if [ "${COCOAPODS_PARALLEL_CODE_SIGN}" == "true" ]; then

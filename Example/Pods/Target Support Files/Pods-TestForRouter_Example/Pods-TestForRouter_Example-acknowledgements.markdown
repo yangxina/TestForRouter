@@ -1,9 +1,9 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## TZRouter
+## NicooSwiftRouter
 
-Copyright (c) 2018 zhangyao <zhangyao@tzpt.com>
+Copyright (c) 2018 504672006@qq.com <yangxin@tzpt.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
