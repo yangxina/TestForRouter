@@ -1,0 +1,23 @@
+PODS:
+  - TestForRouter (0.1.0):
+    - TZRouter
+  - TZRouter (1.0.2)
+
+DEPENDENCIES:
+  - TestForRouter (from `../`)
+
+SPEC REPOS:
+  "git@192.168.28.216:zhangyao/TZSpecs.git":
+    - TZRouter
+
+EXTERNAL SOURCES:
+  TestForRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestForRouter: e184db12eb47044141fba19af5e37f1c9b1fa8d0
+  TZRouter: ce3a389212b4d4bfb7fd298d2dda834cdd5df8dd
+
+PODFILE CHECKSUM: 21c180fb5ceb32b60a1a4a9072a4b74c66cf2626
+
+COCOAPODS: 1.5.0

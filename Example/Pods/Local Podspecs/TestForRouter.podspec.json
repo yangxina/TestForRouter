@@ -1,0 +1,27 @@
+{
+  "name": "TestForRouter",
+  "version": "0.1.0",
+  "summary": "A short description of TestForRouter.",
+  "description": "TestForRouter as a Module of Roueter  To  privide func",
+  "homepage": "https://github.com/yangxina/TestForRouter.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "504672006@qq.com": "yangxin@tzpt.com"
+  },
+  "source": {
+    "git": "https://github.com/yangxina/TestForRouter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestForRouter/Classes/**/*",
+  "dependencies": {
+    "TZRouter": [
+
+    ]
+  }
+}
