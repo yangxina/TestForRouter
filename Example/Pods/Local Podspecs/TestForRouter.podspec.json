@@ -1,7 +1,7 @@
 {
   "name": "TestForRouter",
-  "version": "0.1.0",
-  "summary": "A short description of TestForRouter.",
+  "version": "0.1.1",
+  "summary": "A.",
   "description": "TestForRouter as a Module of Roueter  To  privide func",
   "homepage": "https://github.com/yangxina/TestForRouter.git",
   "license": {
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/yangxina/TestForRouter.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"

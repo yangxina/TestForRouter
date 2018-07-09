@@ -1,6 +1,6 @@
 PODS:
   - NicooSwiftRouter (0.1.2)
-  - TestForRouter (0.1.0):
+  - TestForRouter (0.1.1):
     - NicooSwiftRouter
 
 DEPENDENCIES:
@@ -16,7 +16,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   NicooSwiftRouter: 1d33f1e81760f82ca1b2bf9e455b951a02b1ca5b
-  TestForRouter: dbb2fa321cef7ad9b0c98a71437c3a7c2c572362
+  TestForRouter: f59c9889b474c836e00aaaebc57bf5062ae8bfc2
 
 PODFILE CHECKSUM: 21c180fb5ceb32b60a1a4a9072a4b74c66cf2626
 
