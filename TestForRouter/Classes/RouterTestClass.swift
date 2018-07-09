@@ -14,7 +14,7 @@ import NicooSwiftRouter
         guard let shareUrl = url else {
             return ""
         }
-       return TZRouter.shareInstance.performAction(url: shareUrl , completion: nil)
+       return NicooRouter.shareInstance.performAction(url: shareUrl , completion: nil)
     }
     open class func getMessageFormOtherModule(_ index: Int) -> Any? {
         if index == 1 {
